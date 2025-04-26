@@ -1,0 +1,112 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/add.svg</file>
+    <file>Icons/presentation (2).svg</file>
+    <file>Icons/presentFromCurrent.svg</file>
+    <file>Icons/slide.svg</file>
+    <file>Icons/slides.svg</file>
+    <file>Icons/chess-board.svg</file>
+    <file>Icons/video.svg</file>
+    <file>presentation (2).svg</file>
+    <file>Icons/arrows.svg</file>
+    <file>Icons/layers (1).svg</file>
+    <file>Icons/bold-text.svg</file>
+    <file>Icons/3d-modeling.svg</file>
+    <file>Icons/Align center.svg</file>
+    <file>Icons/Align justify.svg</file>
+    <file>Icons/Align left.svg</file>
+    <file>Icons/Align right.svg</file>
+    <file>Icons/align-left.svg</file>
+    <file>Icons/align-right.svg</file>
+    <file>Icons/backgroundColor.svg</file>
+    <file>Icons/Box.svg</file>
+    <file>Icons/Bold.svg</file>
+    <file>Icons/Chevron down.svg</file>
+    <file>Icons/Chevron up.svg</file>
+    <file>Icons/Chevrons down.svg</file>
+    <file>Icons/Clipboard (1).svg</file>
+    <file>Icons/Clipboard.svg</file>
+    <file>Icons/Copy.svg</file>
+    <file>Icons/Edit 3.svg</file>
+    <file>Icons/fill.svg</file>
+    <file>Icons/Film.svg</file>
+    <file>Icons/font.svg</file>
+    <file>Icons/format.svg</file>
+    <file>Icons/gesturaLastIcon.png</file>
+    <file>Icons/Image.svg</file>
+    <file>Icons/Italic.svg</file>
+    <file>Icons/justify.svg</file>
+    <file>Icons/Layers.svg</file>
+    <file>Icons/line.svg</file>
+    <file>Icons/Lock.svg</file>
+    <file>Icons/Maximize.svg</file>
+    <file>Icons/Message square.svg</file>
+    <file>Icons/Message squareactive.svg</file>
+    <file>Icons/Minimize.svg</file>
+    <file>Icons/Plus circle.svg</file>
+    <file>Icons/presentation.svg</file>
+    <file>Icons/Search.svg</file>
+    <file>Icons/shapes.svg</file>
+    <file>Icons/Share 2.svg</file>
+    <file>Icons/Share.svg</file>
+    <file>Icons/slide.svg</file>
+    <file>Icons/text.svg</file>
+    <file>Icons/text-editor.svg</file>
+    <file>Icons/Tooltip.svg</file>
+    <file>Icons/transparentIcon.svg</file>
+    <file>Icons/Trash 2.svg</file>
+    <file>Icons/Type.svg</file>
+    <file>Icons/Underline.svg</file>
+    <file>Icons/Unlock.svg</file>
+    <file>Icons/User.svg</file>
+    <file>Icons/width.svg</file>
+    <file>Icons/X.svg</file>
+    <file>Icons/slide.svg</file>
+    <file>Icons/presentation.svg</file>
+    <file>Icons/text.svg</file>
+    <file>Icons/fill.svg</file>
+    <file>Icons/line.svg</file>
+    <file>Icons/font.svg</file>
+    <file>Icons/backgroundColor.svg</file>
+    <file>Icons/Chevron up.svg</file>
+    <file>Icons/Align center.svg</file>
+    <file>Icons/Align justify.svg</file>
+    <file>Icons/Align left.svg</file>
+    <file>Icons/Align right.svg</file>
+    <file>Icons/Bold.svg</file>
+    <file>Icons/Box.svg</file>
+    <file>Icons/Chevron down.svg</file>
+    <file>Icons/Chevrons down.svg</file>
+    <file>Icons/Clipboard (1).svg</file>
+    <file>Icons/Clipboard.svg</file>
+    <file>Icons/Copy.svg</file>
+    <file>Icons/Edit 3.svg</file>
+    <file>Icons/Film.svg</file>
+    <file>Icons/Image.svg</file>
+    <file>Icons/Italic.svg</file>
+    <file>Icons/Lock.svg</file>
+    <file>Icons/Maximize.svg</file>
+    <file>Icons/Message square.svg</file>
+    <file>Icons/Message squareactive.svg</file>
+    <file>Icons/Minimize.svg</file>
+    <file>Icons/Plus circle.svg</file>
+    <file>Icons/Search.svg</file>
+    <file>Icons/Share 2.svg</file>
+    <file>Icons/Share.svg</file>
+    <file>Icons/Tooltip.svg</file>
+    <file>Icons/transparentIcon.svg</file>
+    <file>Icons/Trash 2.svg</file>
+    <file>Icons/Underline.svg</file>
+    <file>Icons/Unlock.svg</file>
+    <file>Icons/User.svg</file>
+    <file>Icons/X.svg</file>
+    <file>Avatar.png</file>
+    <file>Share 2active</file>
+    <file>gesturaIcon.ico</file>
+    <file>insert.ico</file>
+    <file>send-back.ico</file>
+  </qresource>
+  <qresource prefix="frames">
+    <file>Icons/gesturaLastIcon.png</file>
+  </qresource>
+</RCC>
