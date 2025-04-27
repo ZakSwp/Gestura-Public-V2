@@ -65,7 +65,7 @@ For proper gesture recognition, remember to:
 
 The input scheme is as follows:
 
-![](images/Click And Drag Closed Right Fisst.jpg)
+![](images/clickAndDragClosedFist.jpg)
 
 ![](images/ZoomInAndOUt.gif)
 
