@@ -15,13 +15,13 @@ The repository contains the following contents:
 
 # Authors:
 
-**Zakaria Mhemed** (Project Lead): 3D Scenes & Interaction Systems, Gesture Commands, Components Integration.  [Linkedin](https://www.linkedin.com/in/zakaria-mhemed-a29933217/)| [Github](https://github.com/ZakSwp)
+**Zakaria M'hemed**: 3D Scenes & Interaction Systems, Camera Movement, Gesture Commands, Components Integration.  [Linkedin](https://www.linkedin.com/in/zakaria-mhemed-a29933217/)| [Github](https://github.com/ZakSwp)
 
-**Hamden Brini** (Chief Technology Officer): User Interface Programming, User Interface Design, Components Integration, Tech Research. [Linkedin](https://www.linkedin.com/in/hamden-brini-42852b30b/)| [Github](https://github.com/hamdenBrini)
+**Hamden Brini**: User Interface Programming, User Interface Design, Components Integration, Tech Research. [Linkedin](https://www.linkedin.com/in/hamden-brini-42852b30b/)| [Github](https://github.com/hamdenBrini)
 
-**Nacef Mbarek**(Chief Product Officer): Gesture Detection & Recognition, Model Training, Gestures Dataset Collection. [Linkedin](https://www.linkedin.com/in/nacef-mbarek-151946291/)|[Github](https://github.com/nacef112)
+**Nacef Mbarek**: Gesture Detection & Recognition, Model Training, Gestures Dataset Collection. [Linkedin](https://www.linkedin.com/in/nacef-mbarek-151946291/)|[Github](https://github.com/nacef112)
 
-**Omar Kammoun** (Chief Marketing & Finance Officer): User Interface Design, [Linkedin](https://www.linkedin.com/in/omar-kammoun-903979295/).
+**Omar Kammoun**: User Interface Design, [Linkedin](https://www.linkedin.com/in/omar-kammoun-903979295/).
 
 
 # Requirements:
