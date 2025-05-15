@@ -4,7 +4,7 @@ This project aims to implement 3D rendering into a basic slides-style presentati
 
 The project uses mediapipe hand tracking and gesture recognition based on point classification as its main 3D scenes input method in order to allow for an intuitive and smooth presentation without needing to resort to keyboard movement for showcasing said models. 
 
-Tne 3D scene also comes equipped with navigation tools and visual feedback that's adapted to the absence of a conventional cursor.
+The 3D scene also comes equipped with navigation tools and visual feedback that's adapted to the absence of a conventional cursor.
 
 ![](images/showcase.png)
 
